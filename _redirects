@@ -1,0 +1,8 @@
+# Cloudflare Pages redirects
+# Default to English version
+/ /en 301
+
+# Language routing
+/en/* /en/:splat 200
+/fr/* /fr/:splat 200
+

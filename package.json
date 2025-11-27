@@ -1,0 +1,11 @@
+{
+  "name": "massotherapiewest",
+  "version": "1.0.0",
+  "description": "Clinique Massotherapie West - Bilingual single-page website",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Development server - configure as needed'",
+    "build": "echo 'Build process - configure as needed'"
+  }
+}
+
